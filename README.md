@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Hello, I'm Prajwal!
 
-<!--
-**prajwal-scorpionking123/prajwal-scorpionking123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
+I'm a Golang developer with 2+ years of experience in software development. I enjoy exploring new technologies and using them to create innovative projects. 
 
-Here are some ideas to get you started:
+### 🌱 I’m currently learning
+- Docker
+- GRPC
+- Microservice-based application development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Skills
+- Golang
+- GRPC
+- Docker
+- VueJS
+- MongoDB
+- MySQL
+
+### 📫 How to reach me
+- Email: prajwal.u.patil@gmail.com
+- LinkedIn: https://www.linkedin.com/in/prajwal-patil-609a19146/
+
+Thank you for visiting my profile! 😊
