@@ -7,6 +7,7 @@ I'm a Golang developer with 2+ years of experience in software development. I en
 - Docker
 - GRPC
 - Microservice-based application development
+- Kafka
 
 ### 💼 Skills
 - Golang
