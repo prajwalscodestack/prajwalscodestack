@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Prajwal!
 
 ### 🌟 About Me
-I'm a Golang developer with 2+ years of experience in software development. I enjoy exploring new technologies and using them to create innovative projects. 
+I'm a Golang developer with 4+ years of experience in software development. I enjoy exploring new technologies and using them to create innovative projects. 
 
 ### 🌱 I’m currently learning
 - Docker
